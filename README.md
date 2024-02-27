@@ -1,6 +1,5 @@
-## NAME:ARUN KUMAR B
+## NAME:VEERARAGAVAN V
 ## REGISTER NUMBER:212223230021
-
 
 
 # Linux commands-Shell scripting
